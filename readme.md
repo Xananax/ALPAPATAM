@@ -27,8 +27,8 @@ A check denotes that the feature has been implemented.
 - [x] Model visceral fat
 - [x] Model external skin with the best possible edge loops while staying as low poly as possible
 - [x] Model main internal organ and genitals
-- [ ] Rig Bones rotate accurately
-- [ ] Rig Muscles follow bones movement
+- [ ] Rig Bones to rotate accurately
+- [ ] Rig Muscles to follow bones movement
 - [ ] Rig Muscles to deform accurately according to bones movement
 - [ ] Rig IK with optional FK
 - [ ] Control helpers for fingers, toes, and foot

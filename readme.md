@@ -38,6 +38,7 @@ A check denotes that the feature has been implemented.
 - [ ] Provide deformation sliders to get a toony aspect
 - [ ] Have the skin follow all deformations
 - [ ] Provide the way to "bake" the skin with deformations into a sculptable character, conserving the rig
+- [ ] Export an interactive app, through BGE or another game engine
 
 ## License
 

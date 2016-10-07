@@ -50,4 +50,4 @@ THE MODEL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
  
  - Olson from getblended.org who's provided much needed advice and helpful examples
  - Great Leg IK from [tobuslieven](https://www.youtube.com/watch?v=RX8H1Z87sRk&list=PL1CDAAF5EE1FF18C4)
- - The (Humane Rigging Fantastic DVD)[https://www.youtube.com/watch?v=6ECcLg-S_Is&list=PL58E9A0927AB357EF]
+ - The [Humane Rigging Fantastic DVD](https://www.youtube.com/watch?v=6ECcLg-S_Is&list=PL58E9A0927AB357EF)

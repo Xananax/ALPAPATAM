@@ -2,19 +2,22 @@
 
 A project to create an "As Low-Poly As Possible Anatomically Accurate 3D Model". Thus the name. Yeah. I'm bad at names.
 
+![current progress](current_progress.jpg)
+
 ## Rationale
 
-There are many medically-accurate 3D models out there; this is not one.
+There are many medically-accurate 3D models out there; this is not one. Medically accurate 3D models are full of noise and intersecting polys, and not suitable for proper visualization, simulation, or learning.
 
 This model emphasises on:
 
 - Minimum viable detail for artists: If a muscle isn't really relevant for drawing, then it isn't there
+- Still thrive to contain all the internal organs necessary, so this can be used as a learning or teaching tool 
 - Very low-poly resolution: this should run without troubles even on the lowest-end PC
 - Open-source: everyone is invited to contribute
 - Permissive License: feel free to use this model for anything, no attribution necessary (though sending me a note so I can see what you've done with it is welcome)
 - Potentially provide a way to export the modified model for further customization, ala [MakeHuman](http://www.makehuman.org/) or [ManuelBastioniLab](http://www.manuelbastioni.com/manuellab.php).
 
-[Here's a 3D preview of the model](https://sketchfab.com/models/b08dbc53a19c423c8414760e395342a9/)
+[Here's a 3D preview of the skeleton](https://sketchfab.com/models/b08dbc53a19c423c8414760e395342a9/)
 
 
 ## Planned features
@@ -42,10 +45,10 @@ A check denotes that the feature has been implemented.
 
 ## License
 
-Copyright (c) 2016 Jad Sarout
-Permission is hereby granted, free of charge, to any person obtaining a copy of this model and associated documentation files (the "Model"), to deal in the Model without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Model, and to permit persons to whom the Model is furnished to do so, subject to the following conditions:
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Model.
-THE MODEL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Copyright (c) 2016 Jad Sarout  
+Permission is hereby granted, free of charge, to any person obtaining a copy of this model and associated documentation files (the "Model"), to deal in the Model without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Model, and to permit persons to whom the Model is furnished to do so, subject to the following conditions:  
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Model.  
+THE MODEL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.  
 
 ## Thanks
  
